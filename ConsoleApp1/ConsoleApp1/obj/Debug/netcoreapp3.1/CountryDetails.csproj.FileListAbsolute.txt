@@ -1,0 +1,12 @@
+C:\Users\Karl\Desktop\VS\eesti\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CountryDetails.exe
+C:\Users\Karl\Desktop\VS\eesti\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CountryDetails.deps.json
+C:\Users\Karl\Desktop\VS\eesti\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CountryDetails.runtimeconfig.json
+C:\Users\Karl\Desktop\VS\eesti\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CountryDetails.runtimeconfig.dev.json
+C:\Users\Karl\Desktop\VS\eesti\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CountryDetails.dll
+C:\Users\Karl\Desktop\VS\eesti\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CountryDetails.pdb
+C:\Users\Karl\Desktop\VS\eesti\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Karl\Desktop\VS\eesti\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CountryDetails.AssemblyInfoInputs.cache
+C:\Users\Karl\Desktop\VS\eesti\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CountryDetails.AssemblyInfo.cs
+C:\Users\Karl\Desktop\VS\eesti\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CountryDetails.csproj.CopyComplete
+C:\Users\Karl\Desktop\VS\eesti\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CountryDetails.dll
+C:\Users\Karl\Desktop\VS\eesti\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CountryDetails.pdb
